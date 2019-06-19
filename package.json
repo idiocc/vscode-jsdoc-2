@@ -45,5 +45,9 @@
     "eslint-config-artdeco": "1.0.1",
     "yarn-s": "1.1.0",
     "zoroaster": "^4.1.1-alpha"
+  },
+  "dependencies": {
+    "@idio/vscode-jsdoc-1": "idiocc/vscode-jsdoc-1",
+    "typescript": "3.4.5"
   }
 }
